@@ -1,4 +1,4 @@
 
 # Hello
 
-# new commit on the branch -> new_branch
+# new commit on master branch
