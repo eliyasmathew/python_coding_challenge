@@ -1,4 +1,2 @@
-
-# Hello
-
-# new commit on master branch
+# python challanges
+Hi this is an attempt to solve some python challenges
