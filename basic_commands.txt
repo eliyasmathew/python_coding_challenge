@@ -1,0 +1,8 @@
+# when you have a folder and want to make it into a git repository we acsess the folder in the terminal and use the command :
+-> git init
+
+# to temporarly add a file into the staging area before commiting the file
+-> git add filename
+	eg : git add readme.md
+# to view the status of the repository we use the command
+-> git status
