@@ -4,5 +4,29 @@
 # to temporarly add a file into the staging area before commiting the file
 -> git add filename
 	eg : git add readme.md
+# to add all the files into the staging area use the following command
+-> git add . 
+
 # to view the status of the repository we use the command
 -> git status
+
+# to commit
+-> git commit -m "commit msg inside the quotes"
+	eg: git commit -m "added something"
+
+# to create a new branch and to switch to the new branch
+-> git checkout -b branch_name
+	eg: git checkout -b new_branch
+# note: any changes added to the new branch does not affect the main branch 
+
+# for merging the branches 
+-> git merge master
+
+# creating the remote repository in github
+-> git remote add origin URL of the repository
+
+# for pusing the repository to the remote repository
+-> git push -u origin branch name
+	eg: git push -u origin master
+
+
